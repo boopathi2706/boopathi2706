@@ -1,37 +1,123 @@
-<h1 align="center">Hi 👋, I'm BOOPATHI VIJAYAN</h1>
-<h3 align="center">Full Stack && UI/UX && Problem Solver</h3>
+<!-- GitHub Profile README - by Boopathi Vijayan -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boopathi2706&label=Profile%20views&color=0e75b6&style=flat" alt="boopathi2706" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boopathi2706" alt="boopathi2706" /></a> </p>
-
-- 🔭 I’m currently working on [ShareBite](https://github.com/boopathi2706/ShareBite)
-
-- 🌱 I’m currently learning **Flutter in Dart**
-
-- 👨‍💻 All of my projects are available at [https://portfolioboopathi.vercel.app/](https://portfolioboopathi.vercel.app/)
-
-- 💬 Ask me about **MERN STACK, NEXT.JS, UI/UX,**
-
-- 📫 How to reach me **boopathi.vijayan123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13E2f1cXH4WKxOfBBI3IbJiPMmvO_xNtu](https://drive.google.com/drive/folders/13E2f1cXH4WKxOfBBI3IbJiPMmvO_xNtu)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/boopathi-vijayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boopathi-vijayan" height="30" width="40" /></a>
-<a href="https://dribbble.com/boopathi-v-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="boopathi-v-cse" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/boopathiv2023c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="boopathiv2023c" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/boopathi_v2023c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boopathi_v2023c1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/boopathiv2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="boopathiv2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/boopathi_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boopathi_v" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Boopathi+Vijayan;Front-End+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/BoopathiVijayan"><img src="https://img.shields.io/github/followers/BoopathiVijayan?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boopathi2706&show_icons=true&locale=en&layout=compact" alt="boopathi2706" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boopathi2706&show_icons=true&locale=en" alt="boopathi2706" /></p>
+## 🚀 About Me
+🎓 I'm a Computer Science & Engineering student at Sri Eshwar College of Engineering.  
+🌱 Currently learning **Full Stack Development (MERN)** and **UI/UX Design**.  
+💡 Exploring AI, Web 3.0, and Mobile Development.  
+🎨 Passionate about clean code, beautiful design, and user-friendly products.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boopathi2706&" alt="boopathi2706" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### 🌐 Frontend Development  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
+### 🔧 Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+
+### 📱 Mobile App Development  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+
+### 🤖 AI/ML  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+### 📊 Data Visualization  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
+
+### ⚙️ DevOps  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+### ☁️ BaaS  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+
+### 🧩 Frameworks / Libraries  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+
+### 🧪 Testing  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+
+### 🧰 Software / Tools  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) 
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BoopathiVijayan&theme=onedark&column=6&margin-w=10" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BoopathiVijayan&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BoopathiVijayan&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoopathiVijayan&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+> Add Dev.to or Medium GitHub Actions if you have blogs!
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"></a>
+  <a href="mailto:youremail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail"></a>
+  <a href="https://yourportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web"></a>
+</p>
+
+---
+
+## 💖 Support Me
+
+<a href="https://www.buymeacoffee.com/YOUR-BMAC">
+  <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BoopathiVijayan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
