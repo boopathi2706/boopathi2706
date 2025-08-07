@@ -10,7 +10,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boopathi2706&theme=radical&no-frame=true&row=1&margin-w=15&title=Commit,Repositories,PullRequest,Issues,Stars,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boopathi2706&theme=radical&no-frame=true&row=1&margin-w=15&title=Commit,Repositories,PullRequest" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/boopathi-vijayan" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/></a>
   <a href="https://dribbble.com/boopathi-v-cse" target="blank"><img src="https://img.icons8.com/color/48/dribbble.png" alt="Dribbble" width="30"/></a>
-  <a href="https://www.codechef.com/users/boopathiv2023c" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30"/></a>
+  <a href="https://www.codechef.com/users/boopathiv2023c" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" background_color="white"/></a>
   <a href="https://www.hackerrank.com/boopathi_v2023c1" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="HackerRank" width="30"/></a>
   <a href="https://codeforces.com/profile/boopathiv2005" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3629285-3031869.png" alt="Codeforces" width="30"/></a>
   <a href="https://www.leetcode.com/boopathi_v" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width="30"/></a>
