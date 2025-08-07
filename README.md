@@ -183,16 +183,7 @@ const boopathi = {
 
 ---
 
-## 🎯 Goals for 2024
 
-- [ ] 🚀 Launch ShareBite platform
-- [ ] 📱 Master Flutter development
-- [ ] 🌟 Contribute to 10+ open source projects
-- [ ] 📝 Write technical blog posts
-- [ ] 🏆 Achieve 1000+ GitHub stars across repositories
-- [ ] 💼 Land a dream job in tech
-
----
 
 ## 📫 Let's Connect!
 
@@ -218,11 +209,4 @@ const boopathi = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </div>
 
-<div align="center">
-  
-**⭐ From [boopathi2706](https://github.com/boopathi2706) with ❤️**
-
-*"Code is like humor. When you have to explain it, it's bad."* 😄
-
-</div>
 ```
