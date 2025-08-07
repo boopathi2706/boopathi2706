@@ -226,5 +226,3 @@ const boopathi = {
 
 </div>
 ```
-
-Just copy this entire markdown code and paste it into your GitHub README.md file! It includes all the beautiful animations, professional styling, and modern features that will make your profile stand out. 🚀
